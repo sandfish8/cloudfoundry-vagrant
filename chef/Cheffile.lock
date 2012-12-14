@@ -56,7 +56,7 @@ SITE
       ohai (>= 1.1.0)
     ohai (1.1.2)
     openssl (1.0.0)
-    postgresql (2.0.0)
+    postgresql (2.0.2)
       openssl (>= 0.0.0)
     rbenv (1.4.1)
       git (>= 0.0.0)
@@ -76,6 +76,6 @@ DEPENDENCIES
   cloudfoundry-ruby-runtime (>= 0)
   cloudfoundry-stager (>= 0)
   nats (>= 0)
-  postgresql (>= 0)
+  postgresql (= 2.0.2)
   redisio (>= 0)
 

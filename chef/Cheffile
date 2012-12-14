@@ -10,5 +10,5 @@ cookbook "cloudfoundry-ruby-runtime"
 cookbook "cloudfoundry-stager"
 cookbook "nats"
 
-cookbook "postgresql"
+cookbook "postgresql", "~>2.0.2"
 cookbook "redisio"
